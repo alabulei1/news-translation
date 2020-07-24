@@ -1,6 +1,6 @@
 > * 原文地址：[How to Build a Personal Dev Server on a $5 Raspberry Pi 如何用树莓派搭建个人服务器](https://www.freecodecamp.org/news/build-a-personal-dev-server-on-a-5-dollar-raspberry-pi/)
 > * 原文作者：Michael Yuan
-> * 译者：
+> * 译者：Miles Fu
 > * 校对者：
 
 ![How to Build a Personal Dev Server on a $5 Raspberry Pi](https://www.freecodecamp.org/news/content/images/size/w2000/2020/07/IMG_8632.JPG)
